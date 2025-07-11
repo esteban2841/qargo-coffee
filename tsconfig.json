@@ -19,9 +19,6 @@
     ],
     "paths": {
       "@/*": ["./src/*"],
-      "@/lib/*": ["./src/lib/*"],
-      "@/context/*": ["./src/context/*"],
-      "@/app/*": ["./src/app/*"]
       // Add any other aliases you use
     }
   },
